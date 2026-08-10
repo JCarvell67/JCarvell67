@@ -21,7 +21,6 @@ Python developer based in the UK focusing on security tooling, automation, and s
 
 ### AI & Computer Vision
 * **[Neural Snake](https://github.com/JCarvell67/snake-ai)** — Snake game where a neural network learns via a genetic algorithm. Includes live visual training, real-time telemetry diagrams, and headless terminal mode.
-* **[Full Body Tracker](https://github.com/JCarvell67/body-tracker)** — Real-time tracking tool using OpenCV and MediaPipe. Tracks 33 pose landmarks, 21 hand joints per hand, a 468-point face mesh, and includes live face blurring.
 * **[NeuralNav: AI City Pathfinder](https://github.com/JCarvell67/neuralnav)** — Browser-based pathfinding tool that connects to OpenStreetMap and OSRM to simulate AI node search over real-world road networks.
 
 ### Data & Visualization

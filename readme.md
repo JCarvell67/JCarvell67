@@ -3,27 +3,29 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,12&height=180&section=header&text=JACK%20CARVELL&fontSize=60&fontAlign=50&fontAlignY=35" alt="Jack Carvell Header" />
 </p>
 
-<!-- BIO DESCRIPTION -->
-> **Python developer based in the UK focusing on security tooling, automation, and systems understanding. Currently learning offensive security and Linux internals.**
+<!-- BIO / SUMMARY FROM CV -->
+> **Cybersecurity-focused student with hands-on experience in Python and C#, aiming for entry-level tech roles or part-time support work.** Fast learner, adaptable, and building strong foundations in system security, automation, and digital problem-solving.
 
 ---
 
 <!-- TECHNICAL FOCUS SECTION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6617CB&height=35&text=TECHNICAL%20FOCUS&fontSize=20&fontColor=ffffff" alt="Technical Focus Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6617CB&height=35&text=TECHNICAL%20FOCUS%20%26%20SKILLS&fontSize=20&fontColor=ffffff" alt="Technical Focus Header" />
 </p>
 
 <p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Languages-blue" alt="Languages Label" />&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge" />&nbsp;
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C# Badge" />&nbsp;
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash Badge" />&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Badge" />
   <br>
   <!-- Environment -->
   <img src="https://img.shields.io/badge/Environment-blue" alt="Environment Label" />&nbsp;
   <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali Badge" />&nbsp;
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Badge" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Badge" />&nbsp;
+  <img src="https://img.shields.io/badge/PC%20Hardware%20%26%20Troubleshooting-555555?style=flat-square" alt="Hardware Badge" />
   <br>
   <!-- Areas -->
   <img src="https://img.shields.io/badge/Areas-blue" alt="Areas Label" />&nbsp;
@@ -58,12 +60,18 @@
 
 ---
 
-<!-- CERTIFICATIONS SECTION -->
+<!-- EDUCATION & CERTIFICATIONS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=050730&height=35&text=CERTIFICATIONS&fontSize=20&fontColor=ffffff" alt="Certifications Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=050730&height=35&text=EDUCATION%20%26%20CERTIFICATIONS&fontSize=20&fontColor=ffffff" alt="Education & Certifications Header" />
 </p>
 
+#### Education
+*   **FutureSkills @ MediaCityUK** — *Level 3 Extended BTEC in Computing (Computer & Cyber-Security)*
+*   **The Lowry Academy** — *GCSEs (Grade 8 in Mathematics)*
+
+#### Certifications
 ```diff
++ Cisco — Hardware Basics (May 2025)
 + AI Fluency — Microsoft Learn (Aug 2026)
 + Python Essentials 1 — The Python Institute (Mar 2026)
-+ Cisco Hardware Basics — Cisco (May 2025)
++ Level 2 Food Hygiene and Safety (Mar 2025)
